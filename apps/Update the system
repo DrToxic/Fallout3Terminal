@@ -1,0 +1,4 @@
+sudo echo "Journal invoked at: "
+date | toilet -f term --filter border
+time sudo dnf update -y
+time flatpak update -y

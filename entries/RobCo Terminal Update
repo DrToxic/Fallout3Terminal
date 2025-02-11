@@ -1,0 +1,12 @@
+It's been a long few days, the sun has risen and set multiple times- I've lost count. But, the update is done.
+More of an upgrade, really. I found an expansion board for one of the droids and reverse-engineered it to provide the RobCo terminal with some nice upgrades.
+
+Firstly, More RAM. I wired up the Expansion RAM board to the System RAM board.
+Secondly, More features. Using the extra memory, I gave the Journal app the ability to read the old journal file onto the screen before overwriting it. Better for correcting errors.
+Thirdly, more app support. You can now run apps you found in the wild, or write new ones here in the Terminal.
+
+I added a few myself so that you can get started. It's a little clunky, but it works.
+
+Have fun, and don't do anything I wouldn't do...
+DrToxic
+Devine Intelligence Ltd.

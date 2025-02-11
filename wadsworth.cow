@@ -1,0 +1,52 @@
+$the_cow = <<"EOC";
+                              $thoughts
+                               $thoughts
+        ..,';;.                 $thoughts                          .',::codl'
+     .;;;:ldxkko      ....,'.  ...'',;;:c::;;,..                 .:,,,,;clddccl
+    ,.'',;codxokK. ','''',;lxOko;,,;,;;;::cllllodl;.             '''',,,:loc:lo
+    '...',;;,:dOOo,',;,;cdd:,lkK0l',',;clooddkOOO0Okdl           ......'',;:;x:
+     .',,.llcckKk,;l,;ldc,c0d,lkOO,',;:llllodkO00KK00XX,    ...  '.'''.;',,,'k
+       :,;;;c::, 'd:;0WWKc'lNclddx:;:cloddddxkk000KKNWKkl .',;c;   ..l:;'',,'
+         .c.,.  ..ll'dXNKc'oXc:olo,;cldxkOOO000KKXNNWMWk0l,..,co      ..,:
+          '; ,. ;'.;l;:::;cdl:::::;odoxk0KKKXXXXNWWWWMMWOKd; ':':     ,'.
+           ;. ,,''c',',,;:;'::,;c;',ccdKNWWWWWWWWMMMMMMMW0oO. ';';   '..
+           .;.;,l:,::;','clc;:.,oc.',cdXWWWWWWWWMMMMMMMMMNx; . ,:': ..'
+            .,' ''. ';'c;'x:,:,..':d:d0NMMMMMMWWMMMMMMMMMWN.  .',:':.'
+            ,.l     .,.c,oc;;,:''':,lxOXWWWWWWWNWMMMMMWWWWW.     ,,.,.
+                     ..c;o,;;;,:' ;:odOXWNXXNXX0KXXXXXK00K0      ..:
+                      .;o;,,,,'', 'lloxkOkkxxOOkkOOO0XXXXX
+                      .;;,,,,,,.;.::coxkkkxdxOkxxkkk0OOO0.
+                         ,,''',''::;coxO0Okkkkxdxxxkkxxd
+                          ,'''''.. ,,;:cllccloooodddolcc,
+       .,,,'.            ,.........,;,;:::::ccccc::c,.;:cl'
+      ,......''        .'.....;;..cc,;:;;;c'.  '':',,..,:cl:
+     ......''..'..    ,..........';;,:;,',,,',:    ......,:ldc.
+     .......;'...c   '............,;:c,';:'..kk       ....'',:d:.
+      ......',....    . ......'''cooc;',xk:..dd         ....',,;o                     ..  . .  ..
+       ..........'   ,;,;;o..,',;ddoc,.:ok;..lx.           ...,c                    '..,..'.....
+        .....'...,     :..',,..';llc;.,;od,..lo          ..;''':,             ' .';: ..
+          ...',,,d    .,........,;c;,.,;dd,..xk        .....,:c              ,.......,
+             .:,cc     .c .,.....',:.',cxk,..xd      .,.....,;;'           .,..,cc.
+               ,d;      .:...,:;;,:,,',:od:::       '.....'cc.               .':;.
+               ;          c..'',:;,.,'..;,''      .......:c'                 '...'
+               ,.          :l;......;'.....';   .......;c;                  ,;;
+              ,c;           c;....',,;... .,c,.'. ...,;;                    .,.
+              'c ;           c,.'ccl:,;',    .,,'.'';,                      ,'
+              .c .,         ..,.';looc,;,:     'cc;,,c                     :',
+             .'l:,c         ''....';:::::       ..':,:c                   c.,:
+              .:cl,'':'.'  ,.'.''...';c;:        ..,;,cc                 .. ,c
+               .l;,,;ccox:,.;..'...,:c:,'         ..';'l,                , .':
+                     .oo;..'......';oo:;.          ..,,'c.              .:,,;:
+                      ,xd,,..',. .',cl:;            ..,,'c..';,;;;;,,,,'c;,;.
+                       ;ld:.     ..':l,,             ..:;,.'.........',.
+                       .,llc     ..'::',              .,;
+                         .:,     ...;c;
+                          ;l    ,'';;;l.
+                          ld   ;;::::.
+                          cd  ;;cc::
+                          ;O;,,cl::
+                          ,k;',::,
+                          .:;';c.
+                          .clc'
+                           ;:c
+EOC

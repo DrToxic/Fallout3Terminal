@@ -1,0 +1,1 @@
+fastfetch -- pipe no | pv -qL 150
